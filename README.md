@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bwojack
-- 👀 I’m interested in web application, iOS, and Android development
-- 🌱 I’m currently learning React
+Aloha, I'm Brant Wojack @bwojack
+I'm interested in web application, iOS, and Android development.
+I'm currently learning React.
 
 <!---
 bwojack/bwojack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
