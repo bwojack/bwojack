@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @bwojack
-- 👀 I’m interested in web application and game development
-- 🌱 I’m currently learning Unreal Engine
-- 💞️ I’m looking to collaborate on nothing at the moment
-- 📫 How to reach me ...
+- 👀 I’m interested in web application, iOS, and Android development
+- 🌱 I’m currently learning React
 
 <!---
 bwojack/bwojack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
